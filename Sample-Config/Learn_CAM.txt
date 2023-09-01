@@ -1,0 +1,19 @@
+todo lost
+
+You need 2 VPC and 2 switch.
+
+"show mac address-table"
+
+ping each other
+
+"show mac address-table"
+
+compare
+
+"show mac address-table interface Ethernet 1/1"
+
+"show cdp neighbors"
+
+"show mac address-table aging-time"
+
+"mac address-table aging-time 600" 600s aging time
